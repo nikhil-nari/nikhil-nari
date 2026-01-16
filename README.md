@@ -1,5 +1,21 @@
 ## Hi there 👋
 
+I'm Nikhil, a Rustacean.
+
+---
+
+### 🛠 My Tech Stack
+
+- **Primary:** Rust 🦀
+- **Familiar with:** C, C++, Python, and Web Tech (HTML/CSS/JS)
+- **Domain Interests:** Cryptography, DeFi Protocols, Low-level Networking, & Cybersecurity
+
+---
+### 🚀 What I'm Up To
+- **Current Focus:** "Actively contributing to Open Source and building projects that solve day-to-day problems
+- **Challenge Me:** Have a recurring software headache? DM me—I love building solutions for "it-would-be-cool-if" problems.
+
+
 <!--
 **nikhil-nari/nikhil-nari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
