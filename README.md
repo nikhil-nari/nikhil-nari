@@ -12,7 +12,7 @@ I'm Nikhil, a Rustacean.
 
 ---
 ### 🚀 What I'm Up To
-- **Current Focus:** "Actively contributing to Open Source and building projects that solve day-to-day problems
+- **Current Focus:** Actively contributing to Open Source and building projects that solve day-to-day problems
 - **Challenge Me:** Have a recurring software headache? DM me—I love building solutions for "it-would-be-cool-if" problems.
 
 
